@@ -2,7 +2,7 @@
 ▇▇▇                                       ▇▇▇               
 ▇▇        ▇                        ▇       ▇▇             
 ▇▇          ▇ @KGTBR   ▇         ▇▇            
-▇▇             ▇             ▇             ▇▇        Dev : Mahmoud BAKKAR GOOGLE
+▇▇             ▇             ▇             ▇▇        Dev :  BAKKAR GOOGLE
 ▇▇                ▇       ▇                ▇▇      
 ▇▇                   ▇▇                    ▇▇     Source google BY @KGTBR
 #-------------------------------------------------------------------
@@ -127,7 +127,7 @@ print('\27[0;33m>>'..[[
 ▇▇▇                                       ▇▇▇               
 ▇▇        ▇                        ▇       ▇▇             
 ▇▇          ▇ @KGTBR   ▇         ▇▇            
-▇▇             ▇             ▇             ▇▇        Dev : Mahmoud BAKKAR GOOGLE
+▇▇             ▇             ▇             ▇▇        Dev :  BAKKAR GOOGLE
 ▇▇                ▇       ▇                ▇▇      
 ▇▇                   ▇▇                    ▇▇     Source google BY @KGTBR
 ]]..'\027[0;32m')
@@ -161,7 +161,7 @@ print('\27[0;33m>>'..[[
 ▇▇▇                                       ▇▇▇               
 ▇▇        ▇                        ▇       ▇▇             
 ▇▇          ▇ @KGTBR   ▇         ▇▇            
-▇▇             ▇             ▇             ▇▇        Dev : Mahmoud BAKKAR GOOGLE
+▇▇             ▇             ▇             ▇▇        Dev :  BAKKAR GOOGLE
 ▇▇                ▇       ▇                ▇▇      
 ▇▇                   ▇▇                    ▇▇     Source google BY @KGTBR
                                                   
@@ -247,7 +247,7 @@ msg.TheRank =  'مطور السورس'
 msg.Rank = 1
 elseif msg.sender_user_id_ == 1463960994 then 
 msg.TheRankCmd = 'المطور ' 
-msg.TheRank = 'مطور اساسي ' 
+msg.TheRank = 'مطور السورس ' 
 msg.Rank = 1
 elseif msg.sender_user_id_ == SUDO_ID then 
 msg.TheRankCmd = 'المطور ' 
