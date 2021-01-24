@@ -2,7 +2,7 @@
 ▇▇▇                                       ▇▇▇               
 ▇▇        ▇                        ▇       ▇▇             
 ▇▇          ▇ @KGTBR   ▇         ▇▇            
-▇▇             ▇             ▇             ▇▇        Dev : Mahmoud BAKKAR GOOGLE
+▇▇             ▇             ▇             ▇▇        Dev :  BAKKAR GOOGLE
 ▇▇                ▇       ▇                ▇▇      
 ▇▇                   ▇▇                    ▇▇     Source google BY @KGTBR
 #-------------------------------------------------------------------
